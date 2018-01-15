@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# CACHE
+index.html
+home.html
+about.html
+contact.html
+products.html
+merchandise.html
+style.css
+productstyle.css
+style1.css
+images/fresh_snow.png
+images/backg.jpg
+images/pershkback.jpg
+
+# Use from network
+NETWORK:
+*
+
+# Fallback content
+FALLBACK:
+/   /offline.html
